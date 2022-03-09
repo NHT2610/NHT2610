@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NHT2610
 - 👀 I’m interested in the best algorithm
-- 🌱 I’m currently learning data struct and algorithm 
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
